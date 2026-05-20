@@ -39,7 +39,7 @@ export const DriversSection: React.FC = () => (
           </div>
         </div>
 
-        <div className="col-span-1 lg:col-span-7 relative bg-white">
+        <div className="col-span-1 lg:col-span-7 relative bg-white rounded-[24px] sm:rounded-[32px]">
           <div
             className="w-full h-auto rounded-[24px] sm:rounded-[32px] p-4 sm:p-6 lg:p-8 flex flex-col gap-6 lg:gap-8 lg:mt-[2.4px] relative overflow-hidden"
             style={{ border: "0.6px solid #FF3F1E99" }}
