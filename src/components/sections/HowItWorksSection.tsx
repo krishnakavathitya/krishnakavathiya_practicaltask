@@ -6,8 +6,8 @@ export const HowItWorksSection: React.FC = () => {
   const steps = [
     { step: "1", title: "Enter Destination", desc: "Tell us where you want to go and when you want to start.",     icon: "/Container (4).svg", bg: "/Background+Border.svg"           },
     { step: "2", title: "Compare Cabs",       desc: "Choose from a fleet of hatchbacks, sedans, and premium SUVs.", icon: "/Container (5).svg", bg: "/Background+Border+Shadow.svg"    },
-    { step: "3", title: "Instant Booking",    desc: "Confirm with a small advance or pay later in full.",           icon: "/Container (6).svg", bg: "/Background+Border+Shadow (1).svg" },
-    { step: "4", title: "Travel Comfortably", desc: "Experience the premium hospitality of AAVORide.",              icon: "/Container (7).svg", bg: "/Background+Border+Shadow (2).svg" },
+    { step: "3", title: "Instant Booking",    desc: "Confirm with a small advance or pay later in full.",           icon: "/Container (6).svg", bg: "/Background+Border+Shadow_3.svg" },
+    { step: "4", title: "Travel Comfortably", desc: "Experience the premium hospitality of AAVORide.",              icon: "/Container (7).svg", bg: "/Background+Border+Shadow_4.svg" },
   ];
 
   return (

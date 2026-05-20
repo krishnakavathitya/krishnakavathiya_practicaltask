@@ -40,7 +40,7 @@ export const Footer: React.FC = () => {
             {/* Social icons — 40×40, border-radius: 9999px, gap-4 */}
             <div className="flex items-center gap-4">
               {[
-                { src: "/Link (1).svg", label: "Social 1" },
+                { src: "/Link_1.svg", label: "Social 1" },
                 { src: "/Link.svg", label: "Social 2" },
                 { src: "/Link.png", label: "Social 3" },
               ].map(({ src, label }) => (
